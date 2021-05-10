@@ -1,0 +1,18 @@
+public class Example {
+
+    /**
+     *  Java Source File Structure.
+     *  Compilation &Execution
+     *  Rectifying common errors
+     *  Lexical Tokens
+     *  Identifiers
+     *  Keywords
+     *  Literals and Comments
+     *  Command Line Arguments
+     */
+    /**
+     * Create a class with data types example variables.
+     * Create a class with all operators
+     * Create example class with different types fo comments
+     */
+}
